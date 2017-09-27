@@ -1,0 +1,26 @@
+{
+  "name": "grain-back",
+  "version": "1.0.0",
+  "description": "little project for a simple blog app.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "DEBUG='grain*' mocha",
+    "start": "DEBUG='credibleEdibles*' node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfiveeleven/grain-back.git"
+  },
+  "keywords": [
+    "medable"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyfiveeleven/grain-back/issues"
+  },
+  "homepage": "https://github.com/andyfiveeleven/grain-back#readme"
+}
